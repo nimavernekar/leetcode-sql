@@ -1,4 +1,4 @@
--- Problem: https://leetcode.com/problems/average-time-of-process-per-machine/
+-- Problem: https://leetcode.com/problems/department-top-three-salaries/
 -- Concept: CTE, Joins, Dense_Rank
 -- Difficulty: Hard
 -- Solution by: Nimisha Vernekar
